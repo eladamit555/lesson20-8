@@ -15,7 +15,7 @@ while True:
     attributes['intelligence'] = random.randint(3, 18)
     attributes['wisdom'] = random.randint(3, 18)
     attributes['charisma'] = random.randint(3, 18)
-    attributes['inventory'] = random.sample(list(items_options), 2)
+    attributes['inventory'] = random.sample(list(item_icons_set), 2)
     print(attributes)
     answer = input('want to change? (yes/no)')
     if answer != 'yes':
