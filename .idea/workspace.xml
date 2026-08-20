@@ -1,14 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c613a16b-106c-45bc-a56e-74b525a84e91" name="Changes" comment="" />
+    <list default="true" id="c613a16b-106c-45bc-a56e-74b525a84e91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lesson20-8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lesson20-8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eladamit555"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/eladamit555/lesson20-8.git",
+    "accountId": "cf23a373-d230-4fe7-9893-0a31c67e819d"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.9475121388339525E-172" />
+      <entry key="MS500" value="4.54879154031937E-35" />
+      <entry key="S2" value="2.597012312681155E-9" />
+      <entry key="S5" value="3.679506745740218E-4" />
+      <entry key="S10" value="0.019182076561771372" />
+      <entry key="S30" value="0.28191583590829566" />
+      <entry key="S60" value="0.9845455616453476" />
+      <entry key="M2" value="3.7293601450050806" />
+      <entry key="M5" value="11.85049733574662" />
+      <entry key="M10" value="22.999667619168537" />
+      <entry key="M15" value="32.786619748500016" />
+      <entry key="M30" value="55.29341277811037" />
+      <entry key="H1" value="79.70512612643158" />
+      <entry key="H2" value="98.99512615022506" />
+      <entry key="H4" value="111.33820900407801" />
+      <entry key="D1" value="123.37533571847526" />
+      <entry key="W1" value="125.62032623048343" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0002883282864827" />
+      <entry key="S2" value="1.1304774482262547" />
+      <entry key="S5" value="1.4754188753877187" />
+      <entry key="S10" value="1.8843304567900814" />
+      <entry key="S30" value="2.8035071036154386" />
+      <entry key="S60" value="3.517612374034941" />
+      <entry key="M2" value="4.5475382272293405" />
+      <entry key="M5" value="6.855819195520379" />
+      <entry key="M10" value="10.488162710516235" />
+      <entry key="M15" value="13.352887271168205" />
+      <entry key="M30" value="18.458255306053967" />
+      <entry key="H1" value="22.665840042092817" />
+      <entry key="H2" value="25.486718660299882" />
+      <entry key="H4" value="27.143384892043738" />
+      <entry key="D1" value="28.675329432518573" />
+      <entry key="W1" value="28.95322615341653" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.8902795615402917E-11" />
+      <entry key="MS500" value="0.007852788314724262" />
+      <entry key="S2" value="0.38185962181599725" />
+      <entry key="S5" value="1.0147783563916244" />
+      <entry key="S10" value="1.6020486091064163" />
+      <entry key="S30" value="2.9143623423398135" />
+      <entry key="S60" value="4.384423537901844" />
+      <entry key="M2" value="8.192921899629356" />
+      <entry key="M5" value="18.648027375796847" />
+      <entry key="M10" value="33.43832861273564" />
+      <entry key="M15" value="46.094700998754256" />
+      <entry key="M30" value="73.717436928437" />
+      <entry key="H1" value="102.34838147812464" />
+      <entry key="H2" value="124.46858917088282" />
+      <entry key="H4" value="138.47436844179362" />
+      <entry key="D1" value="152.04936671515028" />
+      <entry key="W1" value="154.57336442325752" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1,
@@ -22,12 +109,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01_dict.executor": "Run",
+    "Python.02_dict.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -50,5 +145,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
